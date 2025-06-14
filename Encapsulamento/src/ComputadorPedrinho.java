@@ -1,5 +1,5 @@
 import heranca.SistemaMensagemInstantanea;
-import src.*;
+
 
 public class ComputadorPedrinho extends SistemaMensagemInstantanea {
     public static void main(String[] args) {
@@ -9,6 +9,5 @@ public class ComputadorPedrinho extends SistemaMensagemInstantanea {
         // msnMessenger.validarConectadoInternet();
         // msnMessenger.salvarHistoricoMensagem();
 
-         facebook = new Face
     }
 }
